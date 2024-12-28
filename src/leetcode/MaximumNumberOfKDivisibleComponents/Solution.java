@@ -1,4 +1,4 @@
-package leetcode.src.MaximumNumberOfKDivisibleComponents;
+package leetcode.MaximumNumberOfKDivisibleComponents;
 
 import java.util.ArrayList;
 import java.util.List;
